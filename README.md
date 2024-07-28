@@ -51,4 +51,4 @@ A Python script to obfuscate Python code to protect intellectual property. This 
 Here's an example of how to use the obfuscator:
 
 ```bash
-python obfuscator.py
+python Bio-Obfuscator.py
